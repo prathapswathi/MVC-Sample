@@ -1,0 +1,68 @@
+.left-margin{
+    margin:0 .5em 0 0;
+}
+ 
+.right-button-margin{
+    margin: 0 0 1em 0;
+    overflow: hidden;
+}
+ 
+/* some changes in bootstrap modal */
+.modal-body {
+    padding: 20px 20px 0px 20px !important;
+    text-align: center !important;
+}
+ 
+.modal-footer{
+    text-align: center !important;
+}
+
+/* .table{
+    color: darkgreen;
+} */
+
+.table{
+    border: 2px solid green;
+}
+
+#admin_nav{
+   background-color:black;
+   list-style: none;
+    font-weight: bold;
+    float: left;
+    width: 100%;
+} 
+
+.link {
+    display:inline-block;
+    padding:10px;
+    
+}
+.breadcrumb{
+    display:block;
+	padding:0 0 0 5px;
+	width:100%;
+	box-sizing:border-box;
+}
+.breadcrumb ul li a {
+	color:#4f8537;
+	font-size:12px;
+	text-decoration:none;
+	background-image:url(../../../../images/arrow_sm.png);
+	background-repeat:no-repeat;
+	background-position:right;
+	padding-right:10px;
+
+}
+.article_page{
+    display: inline-block; 
+    border: 1px solid skyblue; 
+   /* background-color:lightgreen;*/
+    margin:10px;
+    padding:2px;
+}
+
+.main-div{
+    border: 1px solid black;
+    padding:10px;
+}  
